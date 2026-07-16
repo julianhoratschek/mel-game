@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5267390d4463360b",
+        "id": "745332c5b664fbe1",
         "type": "tabs",
         "children": [
           {
-            "id": "d0f94af6c1520543",
+            "id": "2cf1e31078ba8272",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Willkommen.md",
+                "file": "Testdatei.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Willkommen"
-            }
-          }
-        ]
-      },
-      {
-        "id": "63f2d13ddb98cf50",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "063f39f352e789cc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "title": "Testdatei"
             }
           }
         ]
@@ -200,9 +184,10 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "d0f94af6c1520543",
+  "active": "2cf1e31078ba8272",
   "lastOpenFiles": [
-    "Unbenannt.base",
-    "Willkommen.md"
+    "Willkommen.md",
+    "Testdatei.md",
+    "Unbenannt.base"
   ]
 }
