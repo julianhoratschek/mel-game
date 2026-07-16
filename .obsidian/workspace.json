@@ -190,19 +190,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false
+      "bases:Neue Base erstellen": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "d0f94af6c1520543",
+  "active": "063f39f352e789cc",
   "lastOpenFiles": [
-    "Unbenannt.base",
-    "Willkommen.md"
+    "Willkommen.md",
+    "Unbenannt.base"
   ]
 }
