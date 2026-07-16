@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/julianhoratschek/mel-game.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
