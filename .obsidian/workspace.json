@@ -11,13 +11,14 @@
             "id": "d0f94af6c1520543",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Unbenannt.base",
-                "viewName": "Tabelle"
+                "file": "Willkommen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Unbenannt"
+              "icon": "lucide-file",
+              "title": "Willkommen"
             }
           }
         ]
@@ -201,7 +202,7 @@
   },
   "active": "d0f94af6c1520543",
   "lastOpenFiles": [
-    "Willkommen.md",
-    "Unbenannt.base"
+    "Unbenannt.base",
+    "Willkommen.md"
   ]
 }
