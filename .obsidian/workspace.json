@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordner/LALALA.md",
+                "file": "003 Ideadump/dummy3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LALALA"
+              "title": "dummy3"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -180,19 +180,27 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false
+      "bases:Neue Base erstellen": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "063f39f352e789cc",
   "lastOpenFiles": [
-    "Ordner/LALALA.md",
-    "Ordner",
+    "001 WORK IN PROGRESS PROJEKTE/WIP1 mit Organan/dummy2.md",
+    "003 Ideadump/dummy3.md",
+    "002 Alternativprojekte/AP 1 geklaute Eigenschafte/dummy.md",
     "README.md",
-    "ich probiere es aus.md",
-    "Unbenannt 1.md",
-    "Testdatei.md",
-    "Unbenannt.md",
+    "002 Alternativprojekte",
+    "001 WORK IN PROGRESS PROJEKTE",
+    "003 Ideadump",
     "Willkommen.md",
-    "Unbenannt.base"
+    "Unbenannt.md",
+    "Testdatei.md",
+    "PROJEKT 1 mit Organan/LALALA.md",
+    "Unbenannt.base",
+    "002 Alternativprojekte/AP 1 geklaute Eigenschafte",
+    "001 WORK IN PROGRESS PROJEKTE/WIP1 mit Organan",
+    "ich probiere es aus.md",
+    "Unbenannt 1.md"
   ]
 }
