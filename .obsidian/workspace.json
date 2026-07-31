@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Dateiexplorer"
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "new/j",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,29 +182,28 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false,
-      "github-sync:Sync with Remote": false
+      "bases:Neue Base erstellen": false
     }
   },
   "active": "063f39f352e789cc",
   "lastOpenFiles": [
+    "Unbenannt.md",
     "001 WORK IN PROGRESS PROJEKTE/WIP1 mit Organan/Story/Gesamtstory.md",
     "001 WORK IN PROGRESS PROJEKTE/Ideadump spesific/Statt Hospiz.md",
+    "README.md",
+    "999 Anhänge/Unbenannt.md",
+    "003 Ideadump/dummy3.md",
+    "002 Alternativprojekte/AP 1 geklaute Eigenschafte/dummy.md",
+    "001 WORK IN PROGRESS PROJEKTE/WIP1 mit Organan/Assets/Sprites/dummyyyyy.md",
     "001 WORK IN PROGRESS PROJEKTE/Ideadump spesific",
     "001 WORK IN PROGRESS PROJEKTE/WIP1 mit Organan/Story/Gesamtstory Feedback von J.md",
-    "Unbenannt.md",
-    "001 WORK IN PROGRESS PROJEKTE/WIP1 mit Organan/Assets/Sprites/dummyyyyy.md",
     "001 WORK IN PROGRESS PROJEKTE/WIP1 mit Organan/Story",
-    "999 Anhänge/Unbenannt.md",
     "001 WORK IN PROGRESS PROJEKTE/WIP1 mit Organan/Assets/Sprites",
     "001 WORK IN PROGRESS PROJEKTE/WIP1 mit Organan/Assets",
     "Unbenannt",
     "001 WORK IN PROGRESS PROJEKTE/WIP1 mit Organan/dummy2.md",
-    "003 Ideadump/dummy3.md",
     "Willkommen.md",
     "999 Anhänge",
-    "002 Alternativprojekte/AP 1 geklaute Eigenschafte/dummy.md",
-    "README.md",
     "002 Alternativprojekte",
     "001 WORK IN PROGRESS PROJEKTE",
     "003 Ideadump",
