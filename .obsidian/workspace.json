@@ -196,14 +196,13 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false,
-      "github-sync:Sync with Remote": false
+      "bases:Neue Base erstellen": false
     }
   },
-  "active": "24dfb08edcbfe42c",
+  "active": "063f39f352e789cc",
   "lastOpenFiles": [
-    "Unbenannt 1.md",
     "ich probiere es aus.md",
+    "Unbenannt 1.md",
     "Testdatei.md",
     "Unbenannt.md",
     "Willkommen.md",
